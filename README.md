@@ -27,10 +27,10 @@ This Django project is a versatile web application that combines data analytics,
 - Profile picture and personal information management.
 
 ### Sample
+![login](images/login.PNG)
+![dashboard](images/dashboard.PNG)
+![icons](images/icons.PNG)
+![notification](images/notification.PNG)
+![register](images/register.PNG)
 
-![login](images/login.png)
-![dashboard](images/dashboard.png)
-![icons](images/icons.png)
-![notification](images/notification.png)
-![register](images/register.png)
 
