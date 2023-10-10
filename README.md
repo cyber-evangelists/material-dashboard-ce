@@ -1,6 +1,6 @@
-# Project Name
+# Material Dashboard
 
-![Project Logo](images/logo.png)
+![CyberEvangelists](images/logo.png)
 
 ## Overview
 
